@@ -41,3 +41,9 @@ Built using HTML,CSS to style with clean variable themes and modern card/table l
 Developed with PHP using native PHP sessions for role-based authentication and MySQL prepared statements for backed validation.
 *Database:
 Relational MySQL database managed via XAMPP / phpMyAdmin. Utilizes relational integrity (FOREIGN KEY with ON DELETE CASCADE), dynamic queries using SQL JOIN operations and automated aggregate counts (COUNT( *)) for admin matrics.
+
+##Installation & Setup
+*Setup the Database 
+  1. Open phpMyAdmin (http://localhost/phpmyadmin)
+  2. Create a database named 'skillswap'
+  3. Import the schema.sql file from the database/ folder
