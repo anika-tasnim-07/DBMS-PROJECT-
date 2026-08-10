@@ -12,3 +12,4 @@ Md. Nahidul Islam          -      242-115-279 -  PhPAdmin
 Nahida Islam Shormi        -      242-115-287 -  SQL
 
 ##Objective
+SkillSwap solves the challenge of finding trustworthy, accessible peer tutoring by enabling direct skill trading without financial barriers. By integrating automated test evaluations, students earn verified proficiency badges (Beginner, Intermediate, Expert) that guarantee skill authenticity before making swap requests.
