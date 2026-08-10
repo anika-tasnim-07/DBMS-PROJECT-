@@ -6,8 +6,8 @@ Connect with peers to share your expertise, learn new technologies, and complete
 
 ##Group Details
 NAME                       -      ID          -  Contributors
-Anika Tasnim               -      241-115-254 -
-Abdullah As Sayef Tanzim   -      242-115-260 -
-Md. Nahidul Islam          -      242-115-279 -
-Nahida Islam Shormi        -      242-115-287 -
+Anika Tasnim               -      241-115-254 -  HTML
+Abdullah As Sayef Tanzim   -      242-115-261 -  CSS
+Md. Nahidul Islam          -      242-115-279 -  PhPAdmin
+Nahida Islam Shormi        -      242-115-287 -  SQL
 
