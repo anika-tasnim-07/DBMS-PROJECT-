@@ -34,3 +34,10 @@ Skill Swap solves the challenge of finding trustworthy, accessible peer tutoring
 • Verification Test Interface: <img width="1919" height="902" alt="Screenshot 2026-08-11 035045" src="https://github.com/user-attachments/assets/03f1753f-f2c3-4721-8702-5231316d76f9" />
 • Admin Portal:<img width="1919" height="913" alt="Screenshot 2026-08-11 034724" src="https://github.com/user-attachments/assets/dac13144-22a6-4d0d-b2fb-28d49126a7ee" />
 
+##Tech Stack
+*Frontend:
+Built using HTML,CSS to style with clean variable themes and modern card/table layouts for responsive desktop    navigation. 
+*Backend:
+Developed with PHP using native PHP sessions for role-based authentication and MySQL prepared statements for backed validation.
+*Database:
+Relational MySQL database managed via XAMPP / phpMyAdmin. Utilizes relational integrity (FOREIGN KEY with ON DELETE CASCADE), dynamic queries using SQL JOIN operations and automated aggregate counts (COUNT( *)) for admin matrics.
