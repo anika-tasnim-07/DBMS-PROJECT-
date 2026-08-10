@@ -4,7 +4,7 @@
 Exchange skills. Grow Together. 
 Connect with peers to share your expertise, learn new technologies, and complete verified skill assessments.
 
-##Group Details
+##Team Members
 NAME                       -      ID          -  Contributors
 Anika Tasnim               -      241-115-254 -  HTML
 Abdullah As Sayef Tanzim   -      242-115-261 -  CSS
