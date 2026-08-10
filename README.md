@@ -27,8 +27,8 @@ Skill Swap solves the challenge of finding trustworthy, accessible peer tutoring
 5. Admin Monitoring Portal
 6. Account Control
    
-Project Preview
-UI Screenshots
+##Project Preview
+###UI Screenshots
 • Landing Page: <img width="1917" height="915" alt="Screenshot 2026-08-11 035224" src="https://github.com/user-attachments/assets/59c5fea2-9350-432c-b539-6641010d52e3" />
 • Student Dashboard: <img width="938" height="905" alt="Screenshot 2026-08-11 035147" src="https://github.com/user-attachments/assets/66b4fc10-d2be-4350-81cd-250db79a9987" />
 • Verification Test Interface: <img width="1919" height="902" alt="Screenshot 2026-08-11 035045" src="https://github.com/user-attachments/assets/03f1753f-f2c3-4721-8702-5231316d76f9" />
