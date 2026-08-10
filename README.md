@@ -4,6 +4,11 @@
 Exchange skills. Grow Together. 
 Connect with peers to share your expertise, learn new technologies, and complete verified skill assessments.
 
+##Group Details
+Group Number:04
+Course Name:Database Management System 
+Instructor: MD.Fahmidur Rahman Shakib
+
 ##Team Members
 NAME                       -      ID          -  Contributors
 Anika Tasnim               -      241-115-254 -  HTML
