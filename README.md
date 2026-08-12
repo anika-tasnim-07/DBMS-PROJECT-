@@ -11,10 +11,10 @@ Instructor: MD.Fahmidur Rahman Shakib
 
 ##Team Members
 NAME                       -      ID          -  Contributors
-Anika Tasnim               -      241-115-254 -  HTML
-Abdullah As Sayef Tanzim   -      242-115-261 -  CSS
-Md. Nahidul Islam          -      242-115-279 -  PhPAdmin
-Nahida Islam Shormi        -      242-115-287 -  SQL
+Anika Tasnim               -      241-115-254 -  HTML     - Frontend
+Abdullah As Sayef Tanzim   -      242-115-261 -  CSS      - Frontend
+Md. Nahidul Islam          -      242-115-279 -  PhPAdmin - Backend
+Nahida Islam Shormi        -      242-115-287 -  SQL      - Database
 
 ##Objective
 Skill Swap solves the challenge of finding trustworthy, accessible peer tutoring by enabling direct skill trading without financial barriers. By integrating automated test evaluations, students earn verified proficiency badges (Beginner, Intermediate, Expert) that guarantee skill authenticity before making swap requests.
@@ -33,10 +33,12 @@ Skill Swap solves the challenge of finding trustworthy, accessible peer tutoring
 • Student Dashboard: <img width="1919" height="902" alt="Screenshot 2026-08-11 035045" src="https://github.com/user-attachments/assets/03f1753f-f2c3-4721-8702-5231316d76f9" />
 • Verification Test Interface:<img width="938" height="905" alt="Screenshot 2026-08-11 035147" src="https://github.com/user-attachments/assets/66b4fc10-d2be-4350-81cd-250db79a9987" />
 • Admin Portal:<img width="1917" height="915" alt="Screenshot 2026-08-11 035224" src="https://github.com/user-attachments/assets/59c5fea2-9350-432c-b539-6641010d52e3" />
+• ER Diagram: <img width="627" height="597" alt="image" src="https://github.com/user-attachments/assets/848305ac-5f56-48f9-9d55-b6106a9e444f" />
+
 
 ##Tech Stack
 *Frontend:
-Built using HTML,CSS to style with clean variable themes and modern card/table layouts for responsive desktop    navigation. 
+Built using HTML,CSS to style with clean variable themes and modern card/table layouts for responsive desktop navigation. 
 *Backend:
 Developed with PHP using native PHP sessions for role-based authentication and MySQL prepared statements for backed validation.
 *Database:
