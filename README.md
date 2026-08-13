@@ -46,7 +46,9 @@ Relational MySQL database managed via XAMPP / phpMyAdmin. Utilizes relational in
 
 ## Installation & Setup
 # git clone:
-
+https://github.com/anika-tasnim-07/DBMS-PROJECT-.git
+# Navigate to project folder
+D:\DBMS-PROJECT-
 Setup the Database 
   1. Open phpMyAdmin (http://localhost/phpmyadmin)
   2. Create a database named 'skillswap'
