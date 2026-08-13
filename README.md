@@ -10,11 +10,12 @@ Course Name:Database Management System
 Instructor: MD.Fahmidur Rahman Shakib
 
 ## Team Members
-NAME                       -      ID          -  Contributors
-Anika Tasnim               -      241-115-254 -  HTML     - Frontend
-Abdullah As Sayef Tanzim   -      242-115-261 -  CSS      - Frontend
-Md. Nahidul Islam          -      242-115-279 -  PhPAdmin - Backend
-Nahida Islam Shormi        -      242-115-287 -  SQL      - Database
+NAME                       |      ID          |  Contributors
+---------------------------|------------------|---------------------
+Anika Tasnim               |      241-115-254 |  HTML     - Frontend
+Abdullah As Sayef Tanzim   |      242-115-261 |  CSS      - Frontend
+Md. Nahidul Islam          |      242-115-279 |  PhPAdmin - Backend
+Nahida Islam Shormi        |      242-115-287 |  SQL      - Database
 
 ## Objective
 Skill Swap solves the challenge of finding trustworthy, accessible peer tutoring by enabling direct skill trading without financial barriers. By integrating automated test evaluations, students earn verified proficiency badges (Beginner, Intermediate, Expert) that guarantee skill authenticity before making swap requests.
