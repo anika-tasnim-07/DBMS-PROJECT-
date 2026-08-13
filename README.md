@@ -59,16 +59,16 @@ Setup the Database
 
 /skillswap
 │── admin/
-│ └── dashboard.php     # Admin monitoring & management portal
+│ └── dashboard.php      # Admin monitoring & management portal
 │── assets/
-│ └── css/ 				 # Stylesheets and custom UI themes
+│ └── css/ 				   # Stylesheets and custom UI themes
 │── config/
-│ └── database.php 		 # MySQL connection script
+│ └── database.php 		# MySQL connection script
 │── database/
-│ └── schema.sql 		 # Full database structure & quiz seed data
-│── index.php 			 # Landing page
-│── login.php 			 # Authentication page
-│── register.php 		 # Student registration
+│ └── schema.sql 		   # Full database structure & quiz seed data
+│── index.php 			   # Landing page
+│── login.php 			   # Authentication page
+│── register.php 		   # Student registration
 │── dashboard.php 		 # Student home view
 │── skills.php 			 # Skill CRUD & test score history
 │── take_test.php 		 # Interactive skill verification quiz engine
